@@ -4,14 +4,14 @@
 *** 目录***
 -----------------------------------------------------------------
 - Section 1: Strain your brain!
--[Strings can be tricky sometimes!] (#s1.1)
+- [Strings can be tricky sometimes!](#s1_1) 
 
 
 
 -------------------------------------------------------------------
  # **Section 1：Strain your brain!**
--------------------------------------
-<s1 id='s1.1'> ## Strings can be tricky sometimes!</s1>
+
+<s1_1 id='s1_1'> # Strings can be tricky sometimes!</s1_1>
 
 <h6 id='anchor'>我是一个锚点</h6>
 
