@@ -9,7 +9,7 @@
 
 
 -------------------------------------------------------------------
- # ** <s1 id ='s1'>Section 1：Strain your brain!</s1>**
+ # <s1 id ='s1'>Section 1：Strain your brain!</s1>
 
 ## <s11 id='s1_1'> Strings can be tricky sometimes!</s11>
 
