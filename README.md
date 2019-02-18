@@ -12,6 +12,8 @@
  # <s1 id ='s1'>Section 1：Strain your brain!</s1>
 
 ## <s11 id='s1_1'> Strings can be tricky sometimes!</s11>
+>  示例1 与文章一致，2,3,稍有不同
+> ！[shili1](./shili1)
 
 <h6 id='anchor'>我是一个锚点</h6>
 
