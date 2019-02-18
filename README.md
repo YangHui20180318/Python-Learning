@@ -4,7 +4,7 @@
 *** 目录***
 -----------------------------------------------------------------
 - Section 1: Strain your brain!
-   +[ Strings can be tricky sometimes!] (#s1.1)
+   -[ Strings can be tricky sometimes!] (#s1.1)
 
 
 
