@@ -28,7 +28,7 @@
 
 ## <s12 id ='s1_2'> >Time for some hash browines! </s12>
 + Python 字典通过检查键值是否相等和哈希值来确定两个键是否相同。
-+ ***具有相同值的不可变对象***在python中始终具有相同的hash值.
++ ***具有相同值的不可变对象***在 python中始终具有相同的hash值.
 >hash(1)=hash(1.0)
 
 ## <s13 id='s1_3'> >Return everywhere! </s13>
