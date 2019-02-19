@@ -26,12 +26,12 @@
 - 常量折叠:常量折叠(constant folding) 是 Python 中的一种 窥孔优化(peephole optimization) 技术. 这意味着在编译时表达式 'a'*20 会被替换为 'aaaaaaaaaaaaaaaaaaaa' 以减少运行时的时钟周期. 只有长度小于 20 的字符串才会发生常量折叠. 
 >
 
-<s12 id ='s1_2'> ## >Time for some hash browines! </s12>
+## <s12 id ='s1_2'> >Time for some hash browines! </s12>
 + Python 字典通过检查键值是否相等和哈希值来确定两个键是否相同。
-+ **具有相同值的不可变对象**在python中始终具有相同的hash值
++ ***具有相同值的不可变对象***在python中始终具有相同的hash值.
 >hash(1)=hash(1.0)
 
-<s13 id='s1_3'> ## >Return everywhere! </s13>
+## <s13 id='s1_3'> >Return everywhere! </s13>
 + 当在 "try...finally" 语句的 try 中执行 return, break 或 continue 后, finally 子句依然会执行.
 + 函数的返回值由最后执行的 return 语句决定. 由于 finally 子句一定会执行, 所以 finally 子句中的 return 将始终是最后执行的语句.
 
