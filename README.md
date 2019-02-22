@@ -3,7 +3,7 @@
 -----------------------------------------------------------------
 ***目录***
 -----------------------------------------------------------------
-- [ection 1: Strain your brain!](#s1)
+- [Section 1: Strain your brain!](#s1)
   + [>Strings can be tricky sometimes!](#s1_1)
   + [>Time for some hash brownies!](#s1_2)
   + [>Return  everywhere!](#s1_3)
